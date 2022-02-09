@@ -18,6 +18,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId APP_ID
+        applicationIdSuffix ".eli"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 84
